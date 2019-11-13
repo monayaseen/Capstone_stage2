@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Toys_Store</string>
+    <string name="login">LOG IN</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="toys">Toys Store</string>
+    <string name="fav">Favourites</string>
+    <string name="buy_later">Will Buy</string>
+    <string name="done">Done</string>
+    <string name="allToys">All  Toys</string>
+    <string name="will_buy">Later On ...</string>
+    <string name="add_to_later">Later on</string>
+    <string name="buy_now">Buy</string>
+    <string name="like">Like</string>
+    <string name="menu_desc" />
+    <string name="log_out"/>
+    <string name="toy_list">Toy List</string>
+</resources>
